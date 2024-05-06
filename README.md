@@ -69,7 +69,7 @@
 
 ###
 
-<h2 align="left">how to reach me</h2>
+<h2 align="left">how to reach me  salmanulfaris094@gmail.com</h2>
 
 ###
 
