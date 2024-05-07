@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on e-commerce application and elms<br>👯 I’m looking to collaborate on more projects<br>🌱 I’m currently learning React js and Node js</p>
+<p align="left">🔭 I’m currently working on e-commerce application and DOCTOR CONSULTANCY APPLICATION<br>👯 I’m looking to collaborate on more projects<br>🌱 I’m currently learning React js and Node js</p>
 
 ###
 
