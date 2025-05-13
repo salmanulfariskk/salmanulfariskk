@@ -45,6 +45,28 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="mongodb logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo" />
