@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on E-commerce application and ELMS<br>👯 I’m looking to collaborate on more projects<br>🌱 I’m currently learning React js and Node js</p>
+<p align="left">🚀 Full Stack Developer with a passion for building impactful web applications
+🌱 Currently exploring new technologies and learning about AI
+🧠 A curious mind with a strong drive to learn and grow every day
+⚡ Quick learner who enjoys solving real-world problems through code
+🤝 Always open to collaboration and new opportunities</p>
 
 ###
 
